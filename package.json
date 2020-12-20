@@ -15,7 +15,7 @@
   "scripts": {
     "start": "react-app-rewired start",
     "build": "react-app-rewired build",
-    "predeploy": "react-app-rewire build",
+    "predeploy": "react-app-rewired build",
     "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
