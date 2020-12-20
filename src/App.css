@@ -24,6 +24,22 @@
   color: white;
 }
 
+.button-container {
+  width: auto;
+  display: grid;
+  grid-template-columns: 50px 50px 50px 50px;
+  grid-gap: 0.2em;
+}
+
+.other-controls {
+  display: flex;
+  gap: 0.2em;
+}
+
+.calc-container {
+  width: 214px;
+}
+
 .App-link {
   color: #61dafb;
 }
