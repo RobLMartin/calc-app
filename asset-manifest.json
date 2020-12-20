@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/roblmartin.github.io/calc-app/static/css/main.css",
-    "main.js": "/roblmartin.github.io/calc-app/static/js/main.js",
-    "main.js.map": "/roblmartin.github.io/calc-app/static/js/main.js.map",
-    "index.html": "/roblmartin.github.io/calc-app/index.html",
-    "static/css/main.css.map": "/roblmartin.github.io/calc-app/static/css/main.css.map",
-    "static/js/main.js.LICENSE.txt": "/roblmartin.github.io/calc-app/static/js/main.js.LICENSE.txt"
+    "main.css": "/calc-app/static/css/main.css",
+    "main.js": "/calc-app/static/js/main.js",
+    "main.js.map": "/calc-app/static/js/main.js.map",
+    "index.html": "/calc-app/index.html",
+    "static/css/main.css.map": "/calc-app/static/css/main.css.map",
+    "static/js/main.js.LICENSE.txt": "/calc-app/static/js/main.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/css/main.css",
