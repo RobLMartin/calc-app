@@ -2,6 +2,7 @@
   "name": "calc-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://roblmartin.github.io/calc-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
